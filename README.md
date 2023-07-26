@@ -60,6 +60,14 @@ https://sweetalert2.github.io/#examples
 https://sweetalert2.github.io/#usage
 <br/>
 
+<b>Highlights of 1st Push</b> <br/>
+ng new backend //for creating project
+stylesheet format would you like to use? = SCSS
+npm i bootstrap //for installing bootstrap
+npm install font-awesome //for installing font awesome
+
+<br/><br/>
+
 <b> Version details of third party packages </b>
 <br/>
 
